@@ -12,6 +12,7 @@ class NotFound extends Component {
         </header>
         <p className="App-intro">
           The page you entered does not exist
+          <br/> <a href="/">Go home</a>
         </p>
       </div>
     );
